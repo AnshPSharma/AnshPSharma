@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://anshpsharma.github.io/Portfolio/#)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolioansh-p-sharma.vercel.app/)
 
 - 💬 Ask me about **react, SQL, DSA**
 
