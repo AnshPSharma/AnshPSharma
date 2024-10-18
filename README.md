@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anshpawan24@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1WPA_-1A7U6VG96X62NYNf-a61osbJLXk/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1rRnQKh_XPUA0zWpWSO3RLESDqfLiPaGg/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
