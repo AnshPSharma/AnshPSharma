@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
-- 👨‍💻 All of my projects are available at [https://anshpsharma.github.io/Portfolio/#](https://anshpsharma.github.io/Portfolio/#)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anshpsharma.github.io/Portfolio/#)
 
 - 💬 Ask me about **react, SQL, DSA**
 
 - 📫 How to reach me **anshpawan24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O-emPiceWt4QbR1jeaa3D7d9SYczXybW/view?usp=sharing](https://drive.google.com/file/d/1O-emPiceWt4QbR1jeaa3D7d9SYczXybW/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1WPA_-1A7U6VG96X62NYNf-a61osbJLXk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
